@@ -7,7 +7,7 @@ This is a desktop calculator application which has been programmed using python 
 In the terminal enter:
 ```
 cd desktop
-git clone 
+git clone https://github.com/Harjot66/desktop_gui_calculator_application.git
 python3 desktop_gui_calculator_application
 ```
 
