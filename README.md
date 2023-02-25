@@ -1,4 +1,4 @@
-# desktop_gui_calculator_application
+# Desktop GUI Calculator Application
 
 This is a simple desktop GUI calculator application which has been programmed using python and tkinter. This has addition, subtraction, multiplication, and division functions with a simple user interface.
 
